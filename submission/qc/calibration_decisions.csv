@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013,loi_may,"Mask SAM của xe lấy lẫn một phần người lái","Loại phần người lái khỏi mask xe","Mask xe chỉ gồm phần xe nhìn thấy; người lái là đối tượng riêng",v1.1
+CAL-02,img_024,cau_hoi_mo,"Cụm xe và người đông bị nhòe khó tách từng vật","Vật phân biệt rõ và đủ điều kiện thì vẽ riêng; vùng nhòe không tách được cá thể thì khoanh ignore_region","Với cụm đông bị nhòe kể cả gần camera: chỉ dùng ignore_region cho phần không tách được cá thể; không bao vật rõ đủ điều kiện",v1.1
+CAL-03,img_021,cau_hoi_mo,"Nhiều xe che nhau khó xác định phạm vi từng box","Mỗi xe một box ôm phần nhìn thấy; bỏ qua xe bị che hơn 80% hoặc box cao dưới 20 px","Khi xe che nhau không đoán phần khuất và không gộp nhiều xe vào một box; áp dụng mục 4.1.2 và 4.1.6",v1.1

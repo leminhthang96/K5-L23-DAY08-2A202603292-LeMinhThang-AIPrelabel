@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,LeMinhThang,Khong phat hien loi
+img_006.jpg,70,sai_vi_tri_kich_thuoc,LeMinhThang,ignore_region sai vi tri; can chuyen sang vung can bo qua
+img_013.jpg,112,sai_vi_tri_kich_thuoc,LeMinhThang,Box person chua bao het phan chan nhin thay
+img_014.jpg,,khong,LeMinhThang,Khong phat hien loi
+img_031.jpg,471,sai_vi_tri_kich_thuoc,LeMinhThang,Box bicycle bao ca ganh hoa qua cho tren xe; can thu gon theo pham vi xe
+img_033.jpg,,khong,LeMinhThang,Khong phat hien loi

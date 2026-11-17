@@ -1,4 +1,4 @@
-# Báo cáo Day 08 — <<MSHV - Họ và tên>>
+# Báo cáo Day 08 — 2A202603292 - Lê Minh Thắng
 
 > Một file duy nhất cho cả bài (đã gộp recipe, QC và ghi chú cá nhân). Mọi con số kèm **mẫu số** và nguồn (file nào). Viết bằng lời của bạn.
 
@@ -47,8 +47,9 @@
 |---|---|---|---|---|---|
 | <<img_0xx>> | <<>> | <<>> | <<>> | <<>> | <<>> |
 
-- Đối chiếu guideline mục 4.2: quy tắc nào giúp, quy tắc nào thiếu? <<>>
-- *(Tuỳ chọn)* Interactor SAM trong CVAT: làm được / không (lỗi gì, đã thử gì); khác gì offline: <<>>
+| img_013 | SAM 2.1 base | 3 (2 dương, 1 âm) | không lấy người lái / hàng hoá | không có lỗi | tuktuk_img013.jpg |
+| img_004 — xe xanh lá | SAM 2.1 base | 2 dương | không lấy người lái / hàng hoá | không có lỗi  | tuktuk_green_img004.jpg |
+| img_004 — xe xanh dương | SAM 2.1 base | 2 dương | không lấy người lái / hàng hoá | không có lỗi  | tuktuk_blue_img004.jpg |
 
 ## 6. Calibration (Part 6)
 
